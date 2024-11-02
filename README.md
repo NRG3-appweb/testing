@@ -19,13 +19,13 @@ Plantilla para la documentacion:
 
 
 
->  La formación del archivo.feature deberia de tener un nombre estandar para todos seria CodigoUserStory_Titulo.feature.
+>  La formación del archivo.feature deberia de tener un nombre estandar para todos seria CodigoUserStory_Titulo.feature. Condicion.feature.
 
 
 BackEnd
 ```gherkin
 
-Feature: idicar que es lo que haria como develop.  
+Feature: idicar que es lo que haria como develop. en INGLES.  
   Scenario: completar
     Given completar
     When completar
